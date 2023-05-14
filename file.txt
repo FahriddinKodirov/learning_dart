@@ -1,0 +1,9 @@
+Matn buyicha xarakatlanish.
+
+Kiritilgan matn buyicha klaviatura , sichkoncha va “Перейти к” buyrugi orkali xarakatlanishingiz mumkin.
+
+Klaviatura
+
+Klaviatura erdamida xarakatlanish ilovadagi 3-jadvalda kursatilgan.  Sichkoncha
+
+Sichkoncha erdamida matn buyicha xarakatlanishda Word dasturida maxsus aylanma yullar xizmat kiladi. Bunda matnli kursor xarakatlanmaydi, kerakli joyga sichkoncha chap tugmasini bossangiz kursor paydo buladi.  k” buyrugi
